@@ -34,7 +34,7 @@ def english():
 
     
     #Repo Details
-    repo_owner = "jotigokaraju"
+    repo_owner = "JGokaraju"
     repo_name = "brailleconverter"
     file_path_instructions = "instructions.txt"
     file_path_reciever = "recieve.txt"
@@ -578,7 +578,7 @@ def french():
         return easyocr.Reader(['fr'])
         
     #Repo Details
-    repo_owner = "jotigokaraju"
+    repo_owner = "JGokaraju"
     repo_name = "brailleconverter"
     file_path_instructions = "instructions.txt"
     file_path_reciever = "recieve.txt"
